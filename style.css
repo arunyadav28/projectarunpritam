@@ -1,0 +1,82 @@
+#title{
+  background-color: #0f4c75;
+}
+body{
+ font-family: 'Ubuntu', sans-serif; 
+}
+h2{
+font-family: 'Montserrat',Semi-bold 600;
+color: #bbe1fa;
+}
+h3{
+color: white;
+font-family: 'Montserrat',Semi-bold 600;
+font-weight:bold;
+}
+p{
+color: #bbe1fa;
+font-family: 'Montserrat',Regular 400;
+font-weight:normal;
+}
+h1{
+  color: #bbe1fa;
+  font-family: 'Montserrat', Bold 700;
+  font-size: 4rem;
+  line-height: 1.5rem;
+  
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar{
+padding-bottom: 2.5rem;
+}
+.navbar-brand{
+font-family: 'Ubuntu' Bold 700;
+font-size: 5rem;
+font-weight: bold;
+}
+.nav-item{
+padding: 0 18px;
+}
+.nav-link{
+font-size: 1.25rem;
+font-family: "Montserrat",sans-serif;
+}
+#features{
+background-color: #3282b8;
+padding: 7% 15%;
+}
+.feature-box{
+text-align: center;
+padding: 7% 15%;
+}
+#carousel{
+background-color: #0f4c75;
+text-align: center;
+}
+.tweet{
+padding-left: 40%;
+}
+
+#cta{
+background-color: #3282b8;
+}
+
+
+.cardr{
+padding-right: 765px;
+padding-left: 578px;
+}
+
+.cardl{
+padding-left: 553px;
+padding-right: 793px;
+}
+
+#footer{
+background-color: #1b262c;
+padding: 7% 15%;
+text-align: center;
+}
